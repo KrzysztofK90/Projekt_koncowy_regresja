@@ -17,7 +17,7 @@ Uruchom plik projekt.ipynb.
 #Autorzy i licencja
 Projekt został stworzony przez: 
 Kamil Linsedt,
-Krzysztof Konecki,
+Krzysztof ,
 Mateusz Żoch.
 
 #Licencja: MIT
