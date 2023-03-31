@@ -17,10 +17,10 @@ Uruchom plik projekt.ipynb.
 #Autorzy i licencja
 Projekt został stworzony przez: 
 Kamil Linsedt,
-Krzysztof ,
+Krzysztof Kloc,
 Mateusz Żoch.
 
 #Licencja: MIT
 
 #Kontakt
-W razie pytań lub uwag prosimy o kontakt za pośrednictwem adresu email: krzysztof@gmail.com.
+W razie pytań lub uwag prosimy o kontakt za pośrednictwem adresu email: krzysztofk.90@o2.pl.
